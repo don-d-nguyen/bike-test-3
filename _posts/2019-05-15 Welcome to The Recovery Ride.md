@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "Welcome to The Recovery Ride"
 ---
 
 Welcome to The Recovery Ride.  My name is Don.  I'm not a strong rider.  I'm not particularly fast.  And I crash a whole bunch coming down some singletrack.  But I like bikes.  I really, really like bikes.  So this is where I'll be posting my thoughts, ideas, musings, etc...on all things bike related.  Everything from wacky imposibilities for a monstercross bike...
